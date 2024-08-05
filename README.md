@@ -24,5 +24,10 @@
 
 <img width="359" alt="image" src="https://github.com/user-attachments/assets/23db45c6-ebac-42d3-84e2-bbfa49fab68b">
 
+# Avec Postman:
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c6fcd834-72c8-44da-8f41-0b960ac334a1">
+
+
 
 
