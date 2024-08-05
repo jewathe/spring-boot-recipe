@@ -20,4 +20,9 @@
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/64b40502-ea60-489c-8750-c568a6cc1c1e">
 
+# Quelques details necessaires:
+
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/23db45c6-ebac-42d3-84e2-bbfa49fab68b">
+
+
 
