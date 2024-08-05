@@ -28,6 +28,8 @@
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/c6fcd834-72c8-44da-8f41-0b960ac334a1">
 
+# Recherche par Category:
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d43b7e68-a4a8-4310-b64c-266f4129c527">
 
 
 
