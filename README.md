@@ -5,6 +5,6 @@
  
  ## Installer:
 
- 1- Java Development Kit (JDK) JDK 17 ou versions plus recentes requises par Spring Boot 3.
- 2-  Java IDE (J'ai utilise IntelliJ pour ce projet mais vous pouvez utiliser n'importe quel Java IDE).
+ 1. Java Development Kit (JDK) JDK 17 ou versions plus recentes requises par Spring Boot 3.
+ 2.  Java IDE (J'ai utilise IntelliJ pour ce projet mais vous pouvez utiliser n'importe quel Java IDE).
 
